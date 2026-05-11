@@ -9,8 +9,6 @@ import androidx.navigation.NavController
 import com.example.myapplication.presentation.components.anime_list.AnimeList
 import com.example.myapplication.presentation.components.anime_list.AnimeListHeader
 import com.example.myapplication.ui.theme.PurpleGrey40
-import com.example.myapplication.ui.theme.PurpleGrey80
-import com.example.myapplication.ui.theme.SkyBlue
 
 @Composable
 fun AnimeListScreen(
